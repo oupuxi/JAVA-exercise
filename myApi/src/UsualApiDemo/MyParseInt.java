@@ -1,3 +1,5 @@
+package UsualApiDemo;
+
 public class MyParseInt {
     public static void main(String[] args) {
         /*
