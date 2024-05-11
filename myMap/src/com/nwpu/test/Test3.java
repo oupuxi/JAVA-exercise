@@ -1,4 +1,4 @@
-package com.nwpu;
+package com.nwpu.test;
 
 import java.util.ArrayList;
 import java.util.Collections;

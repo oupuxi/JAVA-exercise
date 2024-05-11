@@ -1,4 +1,4 @@
-package com.nwpu;
+package com.nwpu.test;
 
 import javax.sound.midi.Soundbank;
 import java.util.ArrayList;
